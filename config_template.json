@@ -1,0 +1,19 @@
+{
+    "username": "",
+    "password": "",
+    "scan_interval": 3600,
+    "regions": ["EU", "USA", "Canada", "Australia", "Asia", "Africa", "South America"],
+    "default_threshold": 15.0,
+    "email_enabled": false,
+    "email_address": "",
+    "smtp_server": "",
+    "smtp_port": 587,
+    "smtp_username": "",
+    "smtp_password": "",
+    "from_address": "",
+    "windows_enabled": true,
+    "notification_frequency": "immediate",
+    "quiet_hours_enabled": false,
+    "quiet_hours_start": "22:00",
+    "quiet_hours_end": "08:00"
+}
